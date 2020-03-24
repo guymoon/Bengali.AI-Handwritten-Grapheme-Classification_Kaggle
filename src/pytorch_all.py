@@ -1,4 +1,4 @@
-cimport warnings
+import warnings
 warnings.filterwarnings("ignore")
 
 import gc
@@ -7,7 +7,7 @@ from pathlib import Path
 import random
 import sys
 import math
-import tifme
+import time
 import multiprocessing
 
 from tqdm import tqdm
