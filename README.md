@@ -1,5 +1,11 @@
 # Kaggle Competition Entry: Bengali AI
 
+# The final result
+Private Leaderboard: __237th__ of 2059 teams (LB: 0.9295) 
+Public Leaderboard: __23th__of 2059 teams (LB: 0.9906) 
+
+--------------------------------------------------------------------------------------
+
 https://www.kaggle.com/c/bengaliai-cv19
 
 Bengali is the 5th most spoken language in the world with hundreds of million of speakers. It’s the official
