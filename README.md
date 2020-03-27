@@ -1,8 +1,8 @@
 # Kaggle Competition Entry: Bengali AI
 
 # The final result
-Private Leaderboard: __237th__ of 2059 teams (LB: 0.9295) 
-Public Leaderboard: __23th__of 2059 teams (LB: 0.9906) 
+### Private Leaderboard:__237th__ of 2059 teams (LB: 0.9295) 
+### Public Leaderboard: __23th__of 2059 teams (LB: 0.9906) 
 
 --------------------------------------------------------------------------------------
 
