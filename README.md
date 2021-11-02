@@ -2,7 +2,7 @@
 
 # Final Result
 ___Private Leaderboard:  __"237th"__ of 2059 teams (LB: 0.9295)___   
-___Public Leaderboard: __"23th"__ of 2059 teams (LB: 0.9906)___  -> Gold Medal
+___Public Leaderboard: __"23th"__ of 2059 teams (LB: 0.9906)___  -> Silver Medal
 
 ---
 ---
